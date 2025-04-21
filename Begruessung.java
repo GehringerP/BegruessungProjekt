@@ -150,6 +150,8 @@ public class Begruessung {
 
         // Abschiedsnachricht
         System.out.println("Danke, dass du das Programm benutzt hast!");
+        System.out.println("Drücke Enter, um das Programm zu beenden...");
+        namenscan.nextLine(); // Wartet auf eine Eingabe vom Benutzer
         namenscan.close();
     }
 }

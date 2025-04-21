@@ -11,16 +11,16 @@ Dieses Java-Programm fragt Benutzer nach ihrem Namen und Geburtsdatum, berechnet
 
 ## Beispielausgabe
 Wie heißt du ?
-Philipp
+-Philipp
 Hallo Philipp
 In welchem Jahr bist du geboren?
-1990
+-1990
 In welchem Monat bist du geboren? (1-12)
-3
+-3
 An welchem Tag bist du geboren? (1-31)
-15
+-15
 Du bist ein Erwachsener!
 Möchtest du noch eine Person eingeben? (ja/nein)
-nein
+-nein
 Hallo Philipp, Du bist 35 Jahre alt.
 Danke, dass du das Programm benutzt hast!
